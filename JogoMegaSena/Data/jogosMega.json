@@ -1,0 +1,68 @@
+[
+  {
+    "Nome": "h1",
+    "Cpf": "132142141",
+    "primeiroNro": 1,
+    "segundoNro": 2,
+    "terceiroNro": 3,
+    "quartoNro": 4,
+    "quintoNro": 5,
+    "sextoNro": 6,
+    "datajogo": "2023-09-19T23:13:23.514Z"
+  },
+  {
+    "Nome": "sad",
+    "Cpf": "1323",
+    "primeiroNro": 1,
+    "segundoNro": 5,
+    "terceiroNro": 6,
+    "quartoNro": 2,
+    "quintoNro": 4,
+    "sextoNro": 60,
+    "datajogo": "2023-09-23T02:58:52.715Z"
+  },
+  {
+    "Nome": "Danilo",
+    "Cpf": "14827553190",
+    "primeiroNro": 10,
+    "segundoNro": 20,
+    "terceiroNro": 40,
+    "quartoNro": 50,
+    "quintoNro": 30,
+    "sextoNro": 52,
+    "datajogo": "2023-09-23T19:53:26.983Z"
+  },
+  {
+    "Nome": "Adal",
+    "Cpf": "48611721870",
+    "primeiroNro": 10,
+    "segundoNro": 20,
+    "terceiroNro": 40,
+    "quartoNro": 50,
+    "quintoNro": 30,
+    "sextoNro": 52,
+    "datajogo": "2023-09-23T19:53:26.983Z"
+  },
+  {
+    "Nome": "Cleiton",
+    "Cpf": "53933210313",
+    "primeiroNro": 11,
+    "segundoNro": 24,
+    "terceiroNro": 45,
+    "quartoNro": 52,
+    "quintoNro": 31,
+    "sextoNro": 55,
+    "datajogo": "2023-09-23T19:53:26.983Z"
+  },
+  {
+    "Nome": "nelson",
+    "Cpf": "02647559287",
+    "primeiroNro": 1,
+    "segundoNro": 20,
+    "terceiroNro": 30,
+    "quartoNro": 40,
+    "quintoNro": 50,
+    "sextoNro": 21,
+    "datajogo": "2023-09-23T20:08:08.792Z"
+  }
+]
